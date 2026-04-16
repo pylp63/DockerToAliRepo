@@ -21,8 +21,7 @@ jumpserver/jms_all
 jumpserver/jms_all:v4.10.16
 redis
 redis:8.6.2
-postgress
 postgres:18.3-alpine
-1panel
 1panel:v1.10.21-lts
-
+openclaw:2026.4.9
+openclaw:2026.4.14
