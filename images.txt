@@ -1,6 +1,6 @@
 #redis:7.4.1
-nginx
-nginx:1.27.2
+#nginx
+#nginx:1.27.2
 #mysql:8.4.3
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
@@ -17,12 +17,12 @@ nginx:1.27.2
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
 #nacos/nacos-server:v3.0.1
-jumpserver/jms_all
-jumpserver/jms_all:v4.10.16
-redis
-redis:8.6.2
+#jumpserver/jms_all
+#jumpserver/jms_all:v4.10.16
+#redis
+#redis:8.6.2
 
 postgres:18.3-alpine
-1panel:v1.10.21-lts
+moelin/1panel:v1.10.21-lts
 openclaw:2026.4.9
 openclaw:2026.4.14
