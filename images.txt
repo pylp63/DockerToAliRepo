@@ -22,7 +22,6 @@
 #redis
 #redis:8.6.2
 #postgres:18.3-alpine
-
-moelin/1panel:v1.10.21-lts
-openclaw/openclaw:2026.4.9
-openclaw/openclaw:2026.4.14
+# moelin/1panel:v1.10.21-lts
+ghcr.io/openclaw/openclaw:2026.4.9
+ghcr.io/openclaw/openclaw:2026.4.14
