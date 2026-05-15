@@ -25,4 +25,5 @@
 # moelin/1panel:v1.10.21-lts
 # ghcr.io/openclaw/openclaw:2026.4.9
 # ghcr.io/openclaw/openclaw:2026.4.14
-lmsysorg/sglang
+# lmsysorg/sglang
+ghcr.io/openclaw/openclaw
