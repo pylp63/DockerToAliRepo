@@ -27,5 +27,8 @@
 # ghcr.io/openclaw/openclaw:2026.4.14
 # lmsysorg/sglang
 # ghcr.io/openclaw/openclaw
-flashcatcloud/categraf:latest
-flashcatcloud/nightingale:8.5.0
+#flashcatcloud/categraf:latest
+#flashcatcloud/nightingale:8.5.0
+docker.io/library/mysql:5.7
+busybox
+docker.io/library/redis:6.2"
