@@ -29,6 +29,8 @@
 # ghcr.io/openclaw/openclaw
 #flashcatcloud/categraf:latest
 #flashcatcloud/nightingale:8.5.0
-docker.io/library/mysql:5.7
-busybox
-docker.io/library/redis:6.2
+#docker.io/library/mysql:5.7
+#busybox
+#docker.io/library/redis:6.2
+ansible/awx:16.0.0
+postgres:10
