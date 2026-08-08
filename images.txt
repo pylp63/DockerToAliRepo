@@ -36,4 +36,3 @@
 #postgres:10
 mthreads/musa:rc4.3.0-devel-ubuntu22.04-amd64
 mthreads/musa:rc4.3.0-runtime-ubuntu22.04-amd64
-mthreads/musa:rc4.2.0-mudnn-devel-ubuntu22.04
