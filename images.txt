@@ -43,5 +43,5 @@ goharbor/notary-signer-photon:v2.8.6
 goharbor/harbor-portal:v2.8.6
 goharbor/registry-photon:v2.8.6
 goharbor/harbor-registryctl:v2.8.6
-docker/harbor-redis
+goharbor/redis-photon:v2.8.6
 goharbor/trivy-adapter-photon:v2.8.6
