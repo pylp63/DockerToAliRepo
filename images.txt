@@ -34,5 +34,14 @@
 #docker.io/library/redis:6.2
 #ansible/awx:16.0.0
 #postgres:10
-mthreads/musa:rc4.3.0-devel-ubuntu22.04-amd64
-mthreads/musa:rc4.3.0-runtime-ubuntu22.04-amd64
+#mthreads/musa:rc4.3.0-devel-ubuntu22.04-amd64
+#mthreads/musa:rc4.3.0-runtime-ubuntu22.04-amd64
+goharbor/harbor-core:v2.8.6
+goharbor/harbor-jobservice:v2.8.6
+goharbor/notary-server-photon:v2.8.6
+goharbor/notary-signer-photon:v2.8.6
+goharbor/harbor-portal:v2.8.6
+goharbor/registry-photon:v2.8.6
+goharbor/harbor-registryctl:v2.8.6
+docker/harbor-redis
+goharbor/trivy-adapter-photon:v2.8.6
