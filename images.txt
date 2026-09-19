@@ -45,3 +45,4 @@ goharbor/registry-photon:v2.8.6
 goharbor/harbor-registryctl:v2.8.6
 goharbor/redis-photon:v2.8.6
 goharbor/trivy-adapter-photon:v2.8.6
+docker.io/apecloud/syncer:0.6.5
