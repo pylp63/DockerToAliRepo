@@ -52,4 +52,4 @@
 #dragonflyoss/manager:v2.5.2
 #docker.io/dragonflyoss/manager:v2.5.2
 #docker.io/dragonflyoss/scheduler:v2.5.2
-dragonflyoss/client:v2.5.2
+dragonflyoss/client:latest
