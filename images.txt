@@ -52,4 +52,14 @@
 #dragonflyoss/manager:v2.5.2
 #docker.io/dragonflyoss/manager:v2.5.2
 #docker.io/dragonflyoss/scheduler:v2.5.2
-dragonflyoss/client:latest
+#dragonflyoss/client:latest
+registry.gitlab.com/gitlab-org/build/cng/gitlab-exporter:16.7.0
+registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v14.50.0
+registry.gitlab.com/gitlab-org/build/cng/gitlab-kas:v18.11.11
+registry.gitlab.com/gitlab-org/cloud-native/mirror/images/minio/minio:RELEASE.2017-12-28T01-21-00Z
+registry.gitlab.com/gitlab-org/build/cng/gitlab-container-registry:v4.39.0-gitlab
+registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v18.11.11
+registry.gitlab.com/gitlab-org/build/cng/gitlab-toolbox-ce:v18.11.11
+registry.gitlab.com/gitlab-org/build/cng/gitlab-webservice-ce:v18.11.11
+registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v18.11.11
+registry.gitlab.com/gitlab-org/build/cng/gitaly:v18.11.11
